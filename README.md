@@ -1,5 +1,4 @@
-# Jack-in-the-box-smart-contracts
-It is an upgradeable ERC721A smart contact based on openzepplin (A library for secure smart contract development) and chiru-labs (A library for the implementation of ERC721A). ERC721A is an improved implementation of the ERC721 Non-Fungible Token Standard that supports minting multiple tokens for close to the cost of one.
+# Upgradeable ERC-20 + uniSwap-v2
 
 
 # Installation
@@ -50,7 +49,7 @@ Deploy your smart contract on the top the mainnet/ testnet of the ethereum netwo
 $ hardhat run scripts/deploy.js --network localhost
 ```
 
-# Box Contract Burn Batch Results:
+# CHIPS Contract Burn Batch Results:
 Method used: Off-chain tokenId computation.\
 **Burn Transaction:**\
 total supply: **7000**\
