@@ -49,16 +49,6 @@ Deploy your smart contract on the top the mainnet/ testnet of the ethereum netwo
 $ hardhat run scripts/deploy.js --network localhost
 ```
 
-# CHIPS Contract Burn Batch Results:
-Method used: Off-chain tokenId computation.\
-**Burn Transaction:**\
-total supply: **7000**\
-Random Wallets: **700**\
-Mint per Wallet: **10**\
-token ids to burn: **[6995, 6996, 6997, 6998, 6999]**\
-Gas used: **242265**
-
-
 # Learn More
 
 The guides in the [docs site](https://docs.openzeppelin.com/contracts) will teach about different concepts, and how to use the related contracts that OpenZeppelin Contracts provides:
